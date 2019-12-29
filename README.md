@@ -53,3 +53,9 @@ See also the list of [contributors](https://github.com/TensoNent/tensonent/graph
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](LICENSE)
 file for details.
+
+
+## Communication
+
+* Email address: [TensoNent@Gmail.com](mailto:TensoNent@Gmail.com)
+* Telegram group: [https://t.me/TensoNent](https://t.me/TensoNent)
