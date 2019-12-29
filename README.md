@@ -3,7 +3,7 @@
 # TensoNent
 TensoNent is a python module containing collection of tensor decomposition methods.
 
-Website: [https://github.com/TensoNent/tensonent](https://github.com/TensoNent/tensonent)
+Website: [https://github.com/TensoNent](https://github.com/TensoNent)
 
 
 ## Installation
@@ -25,3 +25,10 @@ To update TensoNent to the latest version, add ```--upgrade``` flag to the comma
 
 We welcome new contributors of all experience level. If you want to contribute to TensoNent,
 be sure to review the [contributing guideline](CONTRIBUTING.md).
+
+
+### Important links
+
+* Official source code repository: [https://github.com/TensoNent/tensonent](https://github.com/TensoNent/tensonent)
+* Download releases: [https://pypi.org/project/tensonent/](https://pypi.org/project/tensonent/)
+* Issue tracker: [https://github.com/TensoNent/tensonent/issues](https://github.com/TensoNent/tensonent/issues)
