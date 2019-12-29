@@ -19,3 +19,9 @@ If you already have working installations of dependencies, you can install tenso
 $ pip install tensonent
 ```
 To update TensoNent to the latest version, add ```--upgrade``` flag to the command above.
+
+
+## Development
+
+We welcome new contributors of all experience level. If you want to contribute to TensoNent,
+be sure to review the [contributing guideline](CONTRIBUTING.md).
