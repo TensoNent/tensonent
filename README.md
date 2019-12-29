@@ -40,3 +40,10 @@ You can check the latest sources with the command below:
 ```text
 $ git clone https://github.com/TensoNent/tensonent.git
 ```
+
+
+## Authors
+
+* **Milad Sadeghi.DM** - _Initial work_ - [EverLookNeverSee](https://github.com/EverLookNeverSee)
+
+See also the list of [contributors](https://github.com/TensoNent/tensonent/graphs/contributors) who participated in this project.
