@@ -32,3 +32,11 @@ be sure to review the [contributing guideline](CONTRIBUTING.md).
 * Official source code repository: [https://github.com/TensoNent/tensonent](https://github.com/TensoNent/tensonent)
 * Download releases: [https://pypi.org/project/tensonent/](https://pypi.org/project/tensonent/)
 * Issue tracker: [https://github.com/TensoNent/tensonent/issues](https://github.com/TensoNent/tensonent/issues)
+
+
+### Source code
+
+You can check the latest sources with the command below:
+```text
+$ git clone https://github.com/TensoNent/tensonent.git
+```
