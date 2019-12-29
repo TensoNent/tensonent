@@ -47,3 +47,9 @@ $ git clone https://github.com/TensoNent/tensonent.git
 * **Milad Sadeghi.DM** - _Initial work_ - [EverLookNeverSee](https://github.com/EverLookNeverSee)
 
 See also the list of [contributors](https://github.com/TensoNent/tensonent/graphs/contributors) who participated in this project.
+
+
+## License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](LICENSE)
+file for details.
