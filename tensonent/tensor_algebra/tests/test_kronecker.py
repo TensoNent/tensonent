@@ -30,3 +30,14 @@ EXPECTED = array([[5, 6, 10, 12, 10, 12, 20, 24, 15, 18, 30, 36],
                   [60, 72, 80, 96, 75, 90, 100, 120, 90, 108, 120, 144],
                   [84, 96, 112, 128, 105, 120, 140, 160, 126, 144, 168, 192],
                   [108, 120, 144, 160, 135, 150, 180, 200, 162, 180, 216, 240]])
+
+
+def test_kronecker_for_3_array():
+    """
+    kronecker product for a series of 2d arrays containing 3 array
+    :return: ndarray
+    """
+
+    result = kronecker(M_1, M_2, M_3)
+
+    assert result.all() == EXPECTED.all()
