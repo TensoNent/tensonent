@@ -1,5 +1,7 @@
 ![](logo.png)
 
+[![Build Status](https://travis-ci.com/TensoNent/tensonent.svg?branch=master)](https://travis-ci.com/TensoNent/tensonent)
+
 # TensoNent
 TensoNent is a python module containing collection of tensor decomposition methods.
 
