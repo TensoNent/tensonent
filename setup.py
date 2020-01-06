@@ -10,7 +10,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tensonent",
-    version="0.0.1",
+    version="0.1.0",
     author="Milad Sadeghi.DM",
     author_email="EverLookNeverSee@ProtonMail.ch",
     description="Tensor Decomposition Library",
