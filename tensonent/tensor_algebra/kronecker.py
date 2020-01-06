@@ -4,10 +4,13 @@
     Author: Milad Sadeghi.DM
 """
 
-from numpy import kron
+from typing import Union, Iterable
+from numpy import kron, ndarray
 
 
-def kronecker(p_1, p_2, *args):
+def kronecker(p_1: Union[ndarray, Iterable, float, int],
+              p_2: Union[ndarray, Iterable, float, int],
+              *args: Union[ndarray, Iterable, float, int]) -> ndarray:
     """
     Kronecker Product for series of tensors, matrices , vectors or scalars
 
