@@ -5,7 +5,7 @@
 """
 
 from numpy import array
-from tensonent.tensor_algebra.kronecker import kronecker
+from tensonent.tensor_algebra import kronecker
 
 M_1 = array([[1, 2, 3],
              [4, 5, 6]])  # 2d array
