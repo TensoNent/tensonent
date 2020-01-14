@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'TensoNent'
-copyright = '2020, Milad Sadeghi.DM'
+copyright()
 author = 'Milad Sadeghi.DM'
 
 # The full version, including alpha/beta/rc tags
